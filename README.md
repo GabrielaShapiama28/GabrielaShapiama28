@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=240&section=header&text=Hey,%20I'm%20Gaby%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%40%20UPC%20·%20Lima,%20Perú&descSize=16&descAlignY=53&descColor=DDD6FE" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=240&section=header&text=Hi,%20I'm%20Gaby%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%40%20UPC%20·%20Lima,%20Perú&descSize=16&descAlignY=53&descColor=DDD6FE" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%92%9C;Competitive+programmer+%26+lifelong+learner;AI+%7C+Networks+%7C+Cybersecurity+enthusiast;Learning+Peruvian+Sign+Language+%F0%9F%A4%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer+(Full-Stack+%26+DevOps);Clean+Architecture+%26+DDD;Competitive+programmer+%26+lifelong+learner;AI+%7C+Networks+enthusiast;Building+impactful+solutions+with+purpose+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,87 +17,106 @@ I currently work as a **part-time lecturer at UPC**, teaching OOP fundamentals w
 ---
 
 ### 🚀 Featured projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **[ReStock](#)** | Restaurant inventory system connecting admins with their suppliers to streamline stock management | Angular · Spring Boot · SQL |
-| **[IncluTalk](#)** | AI app trained on **Peruvian Sign Language** to break communication barriers for the deaf community | Flutter · Python · AI/ML |
-| **[TuTutoría](#)** | Platform connecting students who need academic support with peers who want to earn income as tutors · *Jury recognition @ TEC de Monterrey* | Angular · Spring Boot · Firebase · GCP |
-| **[BeatNet](#)** | Music recommendation app powered by **graph models** — find your next favorite track through smart connections | Vue · Python · Graphs |
+ 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤟 IncluTalk</h3>
+      <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=IncluTalk" width="100%" alt="IncluTalk"/>
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
+      <br/><br/>
+      AI app trained on <b>Peruvian Sign Language</b> to break communication barriers for the deaf community.
+      <br/><br/>
+      <code>Flutter</code> <code>Python</code> <code>AI/ML</code> <code>TensorFlow</code>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏪 ReStock</h3>
+      <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=ReStock" width="100%" alt="ReStock"/>
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
+      <br/><br/>
+      Full-stack restaurant inventory system connecting admins with their suppliers — streamlining stock management end to end.
+      <br/><br/>
+      <code>Angular</code> <code>Spring Boot</code> <code>SQL Server</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📚 TuTutoría</h3>
+      <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=TuTutoria" width="100%" alt="TuTutoría"/>
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
+      <br/><br/>
+      Platform connecting students who need academic help with tutors who want to earn income. <i>🏆 Jury recognition @ TEC de Monterrey</i>
+      <br/><br/>
+      <code>Angular</code> <code>Spring Boot</code> <code>Firebase</code> <code>GCP</code>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎵 BeatNet</h3>
+      <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=BeatNet" width="100%" alt="BeatNet"/>
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <br/><br/>
+      Music recommendation app powered by <b>graph models</b> — find your next favorite track through smart connections.
+      <br/><br/>
+      <code>Vue</code> <code>Python</code> <code>Graph Algorithms</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Arsenal
 
-<details>
-<summary>🏛️ <b>Architecture & Design Patterns</b></summary>
-<br>
+**🏛️ Architecture & Design Patterns**
 
-- **Clean Architecture** — 4-layer implementation
-- **Domain-Driven Design (DDD)** — aggregates, value objects, domain events
-- **Anti-Corruption Layers** & external service integration
-- **CQRS** & Repository Pattern
-- **Microservices** architecture
+> `Clean Architecture` `Domain-Driven Design (DDD)` `CQRS` `Repository Pattern` `Microservices` `Anti-Corruption Layers`
 
-</details>
+**⚡ Backend**
 
-<details>
-<summary>⚡ <b>Backend Technologies</b></summary>
-<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-| Technology | Use Cases |
-|-----------|-----------|
-| **Java · Spring Boot** | Microservices, REST APIs, DDD aggregates |
-| **C# · ASP.NET** | Enterprise apps, EF Core, complex domain modeling |
-| **Python · FastAPI** | Data pipelines, AI integrations |
-| **C++ (OOP)** | Algorithms, competitive programming |
+**🎨 Frontend & Mobile**
 
-</details>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<details>
-<summary>🎨 <b>Frontend & UI</b></summary>
-<br>
-
-```json
-{
-  "frameworks": {
-    "primary": "Angular + Vue",
-    "mobile": "Flutter"
-  },
-  "styling": {
-    "libraries": ["Tailwind CSS", "HTML/CSS"],
-    "approach": "Component-driven development"
-  },
-  "languages": ["TypeScript", "JavaScript"]
-}
-```
-
-</details>
-
-<details>
-<summary>☁️ <b>Cloud, DevOps & Tools</b></summary>
-<br>
+**☁️ Cloud, DevOps & Tools**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-</details>
+**🗄️ Databases**
 
-<details>
-<summary>🗄️ <b>Databases</b></summary>
-<br>
-
-- **Relational:** MySQL · PostgreSQL · SQL Server
-- **NoSQL:** MongoDB
-- **ORM:** Entity Framework Core · complex configurations · discriminators
-- **Data Seeding:** curriculum datasets, competencies & structured domain data
-
-</details>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
@@ -115,28 +134,26 @@ I currently work as a **part-time lecturer at UPC**, teaching OOP fundamentals w
 
 ---
 
-### 🌸 Beyond the code
-
-`📚 Manga & books` `🎬 Sitcoms & cinema` `✏️ Drawing & crafts` `🤟 Learning Peruvian Sign Language` `⚡ Competitive coding` `🌐 Networks nerd`
-
----
-
-### 🔗 Connect with me
-
+### 🔗 Let's connect
+ 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Shapiama-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-nicole-shapiama-rivera593756302)
-[![Email](https://img.shields.io/badge/Email-gabrielashapiama285@gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielashapiama285@gmail.com)
-[![Location](https://img.shields.io/badge/Lima-Perú-C084FC?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer&fontColor=ffffff" width="100%" />
-
+ 
+<br/>
+ 
+[![Portfolio](https://img.shields.io/badge/🌸_Portfolio_%26_Landing_Page-7C3AED?style=for-the-badge&logoColor=white)](#)
+&nbsp;
+[![CV](https://img.shields.io/badge/📄_Download_my_CV-A855F7?style=for-the-badge&logoColor=white)](#)
+ 
+<br/>
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-nicole-shapiama-rivera-593756302)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielashapiama285@gmail.com)
+&nbsp;
+[![Location](https://img.shields.io/badge/📍_Lima,_Perú-C084FC?style=for-the-badge&logoColor=white)](#)
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer&fontColor=ffffff" width="100%" />
+ 
 *✦ always learning · always building · always purple ✦*
-
+ 
 </div>
