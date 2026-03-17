@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Hey,%20I'm%20Gaby%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%40%20UPC%20·%20Lima,%20Perú&descSize=16&descAlignY=58&descColor=DDD6FE" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=240&section=header&text=Hey,%20I'm%20Gaby%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%40%20UPC%20·%20Lima,%20Perú&descSize=16&descAlignY=53&descColor=DDD6FE" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%92%9C;Competitive+programmer+%26+lifelong+learner;AI+%7C+Networks+%7C+Cybersecurity+enthusiast;Learning+Peruvian+Sign+Language+%F0%9F%A4%9F)](https://git.io/typing-svg)
 
@@ -27,22 +27,77 @@ I currently work as a **part-time lecturer at UPC**, teaching OOP fundamentals w
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Tech Arsenal
 
-**Frontend**
-`Angular` `Vue` `Flutter` `JavaScript` `HTML/CSS`
+<details>
+<summary>🏛️ <b>Architecture & Design Patterns</b></summary>
+<br>
 
-**Backend**
-`Java (Spring Boot)` `C# (ASP.NET)` `Python` `FastAPI` `C++ (OOP)`
+- **Clean Architecture** — 4-layer implementation
+- **Domain-Driven Design (DDD)** — aggregates, value objects, domain events
+- **Anti-Corruption Layers** & external service integration
+- **CQRS** & Repository Pattern
+- **Microservices** architecture
 
-**Mobile**
-`Flutter` `Kotlin` `Android`
+</details>
 
-**Cloud & DevOps**
-`Azure` `Google Cloud` `Firebase` `Docker` `Git / Git Flow` `Railway` `Render`
+<details>
+<summary>⚡ <b>Backend Technologies</b></summary>
+<br>
 
-**Data & Databases**
-`SQL Server` `MongoDB` `Azure Databricks` `Power Automate` `Power Apps`
+| Technology | Use Cases |
+|-----------|-----------|
+| **Java · Spring Boot** | Microservices, REST APIs, DDD aggregates |
+| **C# · ASP.NET** | Enterprise apps, EF Core, complex domain modeling |
+| **Python · FastAPI** | Data pipelines, AI integrations |
+| **C++ (OOP)** | Algorithms, competitive programming |
+
+</details>
+
+<details>
+<summary>🎨 <b>Frontend & UI</b></summary>
+<br>
+
+```json
+{
+  "frameworks": {
+    "primary": "Angular + Vue",
+    "mobile": "Flutter"
+  },
+  "styling": {
+    "libraries": ["Tailwind CSS", "HTML/CSS"],
+    "approach": "Component-driven development"
+  },
+  "languages": ["TypeScript", "JavaScript"]
+}
+```
+
+</details>
+
+<details>
+<summary>☁️ <b>Cloud, DevOps & Tools</b></summary>
+<br>
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+
+</details>
+
+<details>
+<summary>🗄️ <b>Databases</b></summary>
+<br>
+
+- **Relational:** MySQL · PostgreSQL · SQL Server
+- **NoSQL:** MongoDB
+- **ORM:** Entity Framework Core · complex configurations · discriminators
+- **Data Seeding:** curriculum datasets, competencies & structured domain data
+
+</details>
 
 ---
 
@@ -50,11 +105,11 @@ I currently work as a **part-time lecturer at UPC**, teaching OOP fundamentals w
 
 <div align="center">
 
-![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaShapiama28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=DDD6FE)
+![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=DDD6FE)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaShapiama28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=DDD6FE)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=DDD6FE)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielaShapiama28&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=DDD6FE&dates=DDD6FE)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=DDD6FE&dates=DDD6FE)](https://git.io/streak-stats)
 
 </div>
 
