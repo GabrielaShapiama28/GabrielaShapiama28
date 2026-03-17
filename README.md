@@ -1,89 +1,87 @@
-# Hi, I'm Gaby 💜  
-### Software Engineer | Builder | Impact-driven Founder  
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=9D4EDD&size=28&center=true&vCenter=true&lines=Building+tech+with+purpose;AI+%2B+Fullstack+Developer;From+ideas+to+real+products;Always+learning+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Hey,%20I'm%20Gaby%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%40%20UPC%20·%20Lima,%20Perú&descSize=16&descAlignY=58&descColor=DDD6FE" width="100%" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%92%9C;Competitive+programmer+%26+lifelong+learner;AI+%7C+Networks+%7C+Cybersecurity+enthusiast;Learning+Peruvian+Sign+Language+%F0%9F%A4%9F)](https://git.io/typing-svg)
 
-## 🚀 About Me  
-
-🎓 Software Engineering student @ UPC (Top 10%, GEA)  
-💡 Passionate about building **real-world solutions with impact**  
-🧠 Strong interest in **AI, algorithms, and scalable systems**  
-👩🏻‍🏫 Programming tutor & problem-solving enthusiast  
-
-I love turning ideas into products that **solve real problems**, especially in education, accessibility, and business optimization.
+</div>
 
 ---
 
-## 💜 Featured Projects  
+### 🔮 About me
 
-### 🧠 INCLUTALK — AI for Peruvian Sign Language  
-- Trained an AI model to recognize **Peruvian Sign Language (LSP)**  
-- Enables inclusive communication in real-world environments  
-- Combines **computer vision + ML + accessibility**  
-- Vision: B2B/B2G solution for banks, clinics, and public services  
+Software engineering student at **UPC** (7th semester), proud member of the **Academic Excellence Group (GEA)** and the **Competitive Programming Group**. I love building full-stack solutions across web, mobile, and backend — and I'm endlessly curious about algorithms, networks, and cybersecurity.
+
+I currently work as a **part-time lecturer at UPC**, teaching OOP fundamentals with C++ and Windows Forms. When I'm not coding, I'm reading manga, watching sitcoms, drawing, or practicing Peruvian Sign Language 🤟.
 
 ---
 
-### 📦 Restock — Smart Inventory System  
-- Inventory platform connecting **restaurants with suppliers**  
-- Real-time tracking, stock optimization, and automation  
-- Focused on reducing operational errors and improving efficiency  
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **[ReStock](#)** | Restaurant inventory system connecting admins with their suppliers to streamline stock management | Angular · Spring Boot · SQL |
+| **[IncluTalk](#)** | AI app trained on **Peruvian Sign Language** to break communication barriers for the deaf community | Flutter · Python · AI/ML |
+| **[TuTutoría](#)** | Platform connecting students who need academic support with peers who want to earn income as tutors · *Jury recognition @ TEC de Monterrey* | Angular · Spring Boot · Firebase · GCP |
+| **[BeatNet](#)** | Music recommendation app powered by **graph models** — find your next favorite track through smart connections | Vue · Python · Graphs |
 
 ---
 
-### 🎓 TuTutoría — Educational Marketplace  
-- Platform connecting students who need help with tutors  
-- Built and validated as part of an **entrepreneurship program (TEC Monterrey)**  
-- Fullstack app (Angular + Spring Boot + Cloud deployment)  
+### 🛠️ Tech stack
+
+**Frontend**
+`Angular` `Vue` `Flutter` `JavaScript` `HTML/CSS`
+
+**Backend**
+`Java (Spring Boot)` `C# (ASP.NET)` `Python` `FastAPI` `C++ (OOP)`
+
+**Mobile**
+`Flutter` `Kotlin` `Android`
+
+**Cloud & DevOps**
+`Azure` `Google Cloud` `Firebase` `Docker` `Git / Git Flow` `Railway` `Render`
+
+**Data & Databases**
+`SQL Server` `MongoDB` `Azure Databricks` `Power Automate` `Power Apps`
 
 ---
 
-### 🎵 BeatNet — Music Recommendation with Graphs  
-- Recommendation system modeled using **graph structures**  
-- Explores relationships between users, songs, and preferences  
-- Focus on algorithmic thinking and data modeling  
+### 📊 GitHub stats
+
+<div align="center">
+
+![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaShapiama28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=DDD6FE)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaShapiama28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=DDD6FE)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielaShapiama28&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=DDD6FE&dates=DDD6FE)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+### 🌸 Beyond the code
 
-### 💻 Languages  
-JavaScript • TypeScript • Python • Java • C++ • Dart  
-
-### ⚙️ Frameworks & Tools  
-Angular • Vue • Flutter • Spring Boot • FastAPI • Node.js  
-
-### ☁️ Cloud & DevOps  
-Docker • Azure • Google Cloud • Firebase • Render  
-
-### 🧠 Other Interests  
-AI/ML • Competitive Programming • System Design • Cybersecurity  
+`📚 Manga & books` `🎬 Sitcoms & cinema` `✏️ Drawing & crafts` `🤟 Learning Peruvian Sign Language` `⚡ Competitive coding` `🌐 Networks nerd`
 
 ---
 
-## 📊 GitHub Stats  
+### 🔗 Connect with me
 
-![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=midnight-purple)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=midnight-purple)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Shapiama-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-nicole-shapiama-rivera593756302)
+[![Email](https://img.shields.io/badge/Email-gabrielashapiama285@gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielashapiama285@gmail.com)
+[![Location](https://img.shields.io/badge/Lima-Perú-C084FC?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
----
-
-## 🌱 Currently  
-
-- Improving my **AI + backend architecture skills**  
-- Building impactful startups under **Diamond Impact**  
-- Preparing for global competitions & tech opportunities  
+</div>
 
 ---
 
-## 📫 Let's Connect  
+<div align="center">
 
-- 💼 LinkedIn: https://linkedin.com/in/TU_LINK  
-- 📧 Email: gabrielashapiama285@gmail.com  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer&fontColor=ffffff" width="100%" />
 
----
+*✦ always learning · always building · always purple ✦*
 
-💜 *"Build things that matter."*
+</div>
