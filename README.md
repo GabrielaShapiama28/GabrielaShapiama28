@@ -28,7 +28,7 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <h3>🤟 IncluTalk</h3>
       <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=IncluTalk" width="100%" alt="IncluTalk"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
       <br/><br/>
@@ -40,7 +40,7 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <h3>🏪 ReStock</h3>
       <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=ReStock" width="100%" alt="ReStock"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
       <br/><br/>
@@ -54,7 +54,7 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <h3>📚 TuTutoría</h3>
       <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=TuTutoria" width="100%" alt="TuTutoría"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
       <br/><br/>
       Platform connecting students who need academic help with tutors who want to earn income. <i>🏆 Jury recognition @ TEC de Monterrey</i>
@@ -65,7 +65,7 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <h3>🎵 BeatNet</h3>
       <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=BeatNet" width="100%" alt="BeatNet"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       <br/><br/>
       Music recommendation app powered by <b>graph models</b> — find your next favorite track through smart connections.
