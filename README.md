@@ -105,11 +105,11 @@ I currently work as a **part-time lecturer at UPC**, teaching OOP fundamentals w
 
 <div align="center">
 
-![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=DDD6FE)
+![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaShapiama28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=DDD6FE)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=DDD6FE)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaShapiama28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=DDD6FE)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=DDD6FE&dates=DDD6FE)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielaShapiama28&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=DDD6FE&dates=DDD6FE)](https://git.io/streak-stats)
 
 </div>
 
