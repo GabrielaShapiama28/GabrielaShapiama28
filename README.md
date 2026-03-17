@@ -10,9 +10,13 @@
 
 ### 🔮 About me
 
-Software engineering student at **UPC** (7th semester), proud member of the **Academic Excellence Group (GEA)** and the **Competitive Programming Group**. I love building full-stack solutions across web, mobile, and backend — and I'm endlessly curious about algorithms, networks, and cybersecurity.
+Software Engineer passionate about building products with real impact. I focus on full-stack development, from backend architecture to user-facing applications.
 
-I currently work as a **part-time lecturer at UPC**, teaching OOP fundamentals with C++ and Windows Forms. When I'm not coding, I'm reading manga, watching sitcoms, drawing, or practicing Peruvian Sign Language 🤟.
+Currently building projects like IncluTalk and TuTutoría, combining technology and entrepreneurship to solve real-world problems.
+
+I have hands-on experience in process automation (including projects with Primax) and work as a part-time lecturer at UPC, teaching programming fundamentals.
+
+I’m driven by building scalable solutions, learning fast, and turning ideas into real products.
 
 ---
 
@@ -109,14 +113,14 @@ I currently work as a **part-time lecturer at UPC**, teaching OOP fundamentals w
 ![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+ 
 **🗄️ Databases**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
@@ -154,6 +158,6 @@ I currently work as a **part-time lecturer at UPC**, teaching OOP fundamentals w
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer&fontColor=ffffff" width="100%" />
  
-*✦ always learning · always building · always purple ✦*
+*✦ always learning · always building ✦*
  
 </div>
