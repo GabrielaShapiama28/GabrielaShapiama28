@@ -28,7 +28,7 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <h3>🤟 IncluTalk</h3>
       <img src="assets/inclutalk_mvp.png" width="100%" alt="IncluTalk"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/GabrielaShapiama28/inclutalk-mvp.git"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="https://youtu.be/DSUNWwCjmoo?si=PWHshLCcuGz0aU1C"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       <a href="https://diamondimpactpe-pixel.github.io/landing-page-inclutalk/"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
       <br/><br/>
