@@ -26,27 +26,28 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
   <tr>
     <td align="center" width="50%">
       <h3>🤟 IncluTalk</h3>
-      <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=IncluTalk" width="100%" alt="IncluTalk"/>
+      <img src="assets/inclutalk_mvp.png" width="100%" alt="IncluTalk"/>
       <br/><br/>
       <a href="#"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="https://youtu.be/DSUNWwCjmoo?si=PWHshLCcuGz0aU1C"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       <a href="https://diamondimpactpe-pixel.github.io/landing-page-inclutalk/"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
       <br/><br/>
-      AI app trained on <b>Peruvian Sign Language</b> to break communication barriers for the deaf community.
+      AI platform trained on <b>Peruvian Sign Language</b> to break communication barriers for the deaf community.
       <br/><br/>
-      <code>Flutter</code> <code>Python</code> <code>AI/ML</code> <code>TensorFlow</code>
+      <code>React</code> <code>Python</code> <code>PostgreSQL</code> <code>AI/ML</code> <code>TensorFlow</code> <code>Docker</code>
     </td>
     <td align="center" width="50%">
       <h3>🏪 ReStock</h3>
       <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=ReStock" width="100%" alt="ReStock"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Desktop-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Mobile-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
       <br/><br/>
       Full-stack restaurant inventory system connecting admins with their suppliers — streamlining stock management end to end.
       <br/><br/>
-      <code>Angular</code> <code>Spring Boot</code> <code>SQL Server</code> <code>Docker</code>
+      <code>Angular</code> <code>Spring Boot</code> <code>Flutter</code> <code>Kotlin</code> <code>Mongo DB</code> <code>Docker</code>
     </td>
   </tr>
   <tr>
@@ -54,7 +55,8 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <h3>📚 TuTutoría</h3>
       <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=TuTutoria" width="100%" alt="TuTutoría"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Backend-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Frontend-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
       <br/><br/>
       Platform connecting students who need academic help with tutors who want to earn income. <i>🏆 Jury recognition @ TEC de Monterrey</i>
