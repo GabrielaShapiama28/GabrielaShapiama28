@@ -29,8 +29,8 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <img src="https://via.placeholder.com/400x180/1A0A3E/C4B5FD?text=IncluTalk" width="100%" alt="IncluTalk"/>
       <br/><br/>
       <a href="#"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
+      <a href="https://youtu.be/DSUNWwCjmoo?si=PWHshLCcuGz0aU1C"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <a href="https://diamondimpactpe-pixel.github.io/landing-page-inclutalk/"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
       <br/><br/>
       AI app trained on <b>Peruvian Sign Language</b> to break communication barriers for the deaf community.
       <br/><br/>
