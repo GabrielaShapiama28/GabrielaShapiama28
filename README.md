@@ -4,6 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=6758aa&center=true&vCenter=true&width=600&lines=Software+Engineer+(Full-Stack+%26+DevOps);Clean+Architecture+%26+DDD;Competitive+programmer+%26+lifelong+learner;AI+%7C+Networks+enthusiast;Building+impactful+solutions+with+purpose+%F0%9F%92%9C)](https://git.io/typing-svg)
 
+<br/>
+
+<div align="center">
+
+[![EN](https://img.shields.io/badge/EN-6758aa?style=flat-square&logoColor=white)](./README.md)&nbsp;[![ES](https://img.shields.io/badge/ES-444444?style=flat-square&logoColor=white)](./README_ES.md)
+
+</div>
+
 </div>
 
 ---
@@ -16,7 +24,7 @@ Currently building projects like IncluTalk and TuTutoría, combining technology 
 
 I have hands-on experience in process automation (including projects with Primax) and work as a part-time lecturer at UPC, teaching programming fundamentals.
 
-I’m driven by building scalable solutions, learning fast, and turning ideas into real products.
+I'm driven by building scalable solutions, learning fast, and turning ideas into real products.
 
 ---
 
