@@ -6,7 +6,11 @@
 
 <br/>
 
-> 🌐 **Idioma / Language:** &nbsp; [🇺🇸 English](./README.md) &nbsp;|&nbsp; **🇵🇪 Español**
+<div align="center">
+
+[![ENGLISH](https://img.shields.io/badge/EN-444444?style=flat-square&logoColor=white)](./README.md)&nbsp;[![ESPAÑOL](https://img.shields.io/badge/ES-6758aa?style=flat-square&logoColor=white)](./README_ES.md)
+
+</div>
 
 </div>
 
@@ -149,7 +153,7 @@ Me impulsa construir soluciones escalables, aprender rápido y convertir ideas e
  
 <br/>
  
-[![Portfolio](https://img.shields.io/badge/🌸_Portafolio-8982d2?style=for-the-badge&logoColor=9c9bde)](#)
+[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-8982d2?style=for-the-badge&logoColor=9c9bde)](#)
 &nbsp;
 [![CV](https://img.shields.io/badge/📄_Descargar_mi_CV-6758aa?style=for-the-badge&logoColor=6758aa)](#)
  
