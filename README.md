@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=240&section=header&text=Hi,%20I'm%20Gaby%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%40%20UPC%20·%20Lima,%20Perú&descSize=16&descAlignY=53&descColor=DDD6FE" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6758aa&height=240&section=header&text=Hi,%20I'm%20Gaby%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%40%20UPC%20·%20Lima,%20Perú&descSize=16&descAlignY=53&descColor=DDD6FE" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer+(Full-Stack+%26+DevOps);Clean+Architecture+%26+DDD;Competitive+programmer+%26+lifelong+learner;AI+%7C+Networks+enthusiast;Building+impactful+solutions+with+purpose+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=6758aa&center=true&vCenter=true&width=600&lines=Software+Engineer+(Full-Stack+%26+DevOps);Clean+Architecture+%26+DDD;Competitive+programmer+%26+lifelong+learner;AI+%7C+Networks+enthusiast;Building+impactful+solutions+with+purpose+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 </div>
 
@@ -78,7 +78,7 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <br/><br/>
       <a href="https://github.com/GabrielaShapiama28/inclutalk-mvp.git"><img src="https://img.shields.io/badge/Code-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="https://youtu.be/DSUNWwCjmoo?si=PWHshLCcuGz0aU1C"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-      <a href="https://diamondimpactpe-pixel.github.io/landing-page-inclutalk/"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
+      <a href="https://diamondimpactpe-pixel.github.io/landing-page-inclutalk/"><img src="https://img.shields.io/badge/🌐_Landing-6758aa?style=for-the-badge&logoColor=6758aa" /></a>
       <br/><br/>
       AI platform trained on <b>Peruvian Sign Language</b> to break communication barriers for the deaf community.
       <br/><br/>
@@ -91,7 +91,7 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <a href="#"><img src="https://img.shields.io/badge/Desktop-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Mobile-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/▶_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-6758aa?style=for-the-badge&logoColor=6758aa" /></a>
       <br/><br/>
       Full-stack restaurant inventory system connecting admins with their suppliers — streamlining stock management end to end.
       <br/><br/>
@@ -105,7 +105,7 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
       <br/><br/>
       <a href="#"><img src="https://img.shields.io/badge/Backend-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Frontend-6C3FC5?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-A855F7?style=for-the-badge&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/🌐_Landing-6758aa?style=for-the-badge&logoColor=6758aa" /></a>
       <br/><br/>
       Platform connecting students who need academic help with tutors who want to earn income. <i>🏆 Jury recognition @ TEC de Monterrey</i>
       <br/><br/>
@@ -131,9 +131,9 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
 
 <div align="center">
 
-![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaShapiama28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=DDD6FE)
+![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaShapiama28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8982d2&icon_color=C084FC&text_color=DDD6FE)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaShapiama28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=DDD6FE)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaShapiama28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8982d2&text_color=DDD6FE)
 
 </div>
 
@@ -145,9 +145,9 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
  
 <br/>
  
-[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-7C3AED?style=for-the-badge&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-8982d2?style=for-the-badge&logoColor=9c9bde)](#)
 &nbsp;
-[![CV](https://img.shields.io/badge/📄_Download_my_CV-A855F7?style=for-the-badge&logoColor=white)](#)
+[![CV](https://img.shields.io/badge/📄_Download_my_CV-6758aa?style=for-the-badge&logoColor=6758aa)](#)
  
 <br/>
  
@@ -157,7 +157,7 @@ I’m driven by building scalable solutions, learning fast, and turning ideas in
 &nbsp;
 [![Location](https://img.shields.io/badge/📍_Lima,_Perú-C084FC?style=for-the-badge&logoColor=white)](#)
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6758aa&height=120&section=footer&fontColor=ffffff" width="100%" />
  
 *✦ always learning · always building ✦*
  
